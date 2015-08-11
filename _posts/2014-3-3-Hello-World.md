@@ -3,7 +3,7 @@ layout: post
 title: You're up and running!
 ---
 
-Hello All You Peoples.  I'm here to wrangle your data and whip it into shape and make it vomit out its secrets.
+Hello All You Peoples.  I'm here to wrangle your data and whip it into shape.
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
