@@ -1,6 +1,6 @@
 ---
 layout: post
-title: YouTube Video Recommendation via Sentiment Analysis
+title: Predicting VIX Using Supervised Learning Algorithms
 ---
 
 I use various supervised learning algorithms to predict the short term movement of VIX, the implied volatility of the S&P500 based on market prices of options on the S&P 500.  
