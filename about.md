@@ -8,10 +8,6 @@ My name is Wilson Kung and I live in New York City.  I have a background in Econ
 
 Recently, I have endeavored to learn data science.  This has involved learning a basket of new tools and techniques including the Python programming language and its associated machine learning packages.  My blog describes some of the work that I've completed in this pursuit.  
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
 ### Contact me
 
 [wilsonckung@gmail.com](mailto:wilsonckung@gmail.com)
